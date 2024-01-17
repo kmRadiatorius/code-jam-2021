@@ -1,13 +1,12 @@
-package codejam;
+package hashcode;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.*;
-import java.util.stream.Collectors;
 
-public class Solution1 {
+public class Solution {
 
     static class Street {
         int B;
